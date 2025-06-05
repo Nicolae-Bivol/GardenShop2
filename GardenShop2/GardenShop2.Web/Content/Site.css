@@ -1,0 +1,114 @@
+﻿body {
+    background-color: #f0f5f1;
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+}
+
+footer {
+    background-color: #e8f5e9;
+    font-size: 0.9rem;
+    color: #4e4e4e;
+}
+
+.container {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+h1, h2, h3 {
+    color: #2e7d32;
+}
+
+.card {
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease;
+}
+
+    .card:hover {
+        transform: translateY(-5px);
+    }
+
+
+.card-title {
+    color: #388e3c;
+}
+
+.btn-success {
+    background-color: #43a047;
+    border: none;
+}
+
+    .btn-success:hover {
+        background-color: #388e3c;
+    }
+
+.btn-primary {
+    background-color: #1976d2;
+    border: none;
+}
+
+    .btn-primary:hover {
+        background-color: #1565c0;
+    }
+
+.navbar {
+    background-color: #2e7d32;
+    min-height: 50px;
+    padding-top: 0;
+    padding-bottom: 0;
+    min-height: 48px;
+}
+
+
+.navbar-nav .nav-link {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-size: 0.95rem;
+}
+
+.navbar-brand {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    color: #ffffff;
+}
+
+        .navbar .nav-link:hover {
+            color: #c8e6c9;
+        }
+
+.navbar-brand img {
+    transition: transform 0.3s ease;
+}
+
+.navbar-brand:hover img {
+    transform: scale(1.05);
+}
+
+
+.animate-nav .nav-link {
+    position: relative;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+    .animate-nav .nav-link::after {
+        content: '';
+        display: block;
+        width: 0%;
+        height: 2px;
+        background-color: #ffffff;
+        transition: width 0.3s ease;
+        position: absolute;
+        bottom: -5px;
+        left: 0;
+    }
+
+    .animate-nav .nav-link:hover::after {
+        width: 100%;
+    }
+
+    .animate-nav .nav-link:hover {
+        color: #dcedc8 !important;
+        transform: translateY(-2px);
+    }

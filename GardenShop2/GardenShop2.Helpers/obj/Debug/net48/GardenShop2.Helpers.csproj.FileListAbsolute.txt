@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Helpers\bin\Debug\net48\GardenShop2.Helpers.dll
+C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Helpers\bin\Debug\net48\GardenShop2.Helpers.pdb
+C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Helpers\bin\Debug\net48\Antlr3.Runtime.dll
+C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Helpers\bin\Debug\net48\System.Web.Optimization.dll
+C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Helpers\bin\Debug\net48\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Helpers\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Helpers\bin\Debug\net48\WebGrease.dll
+C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Helpers\obj\Debug\net48\GardenShop2.Helpers.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Helpers\obj\Debug\net48\GardenShop2.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Helpers\obj\Debug\net48\GardenShop2.Helpers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Helpers\obj\Debug\net48\GardenShop2.Helpers.AssemblyInfo.cs
+C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Helpers\obj\Debug\net48\GardenShop2.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Helpers\obj\Debug\net48\GardenSh.D8F2A2F1.Up2Date
+C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Helpers\obj\Debug\net48\GardenShop2.Helpers.dll
+C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Helpers\obj\Debug\net48\GardenShop2.Helpers.pdb

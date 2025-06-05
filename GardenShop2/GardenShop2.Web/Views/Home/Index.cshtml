@@ -1,0 +1,88 @@
+﻿@{
+     ViewBag.Title = "Home";
+}
+<head>
+     <meta charset="utf-8" />
+     <title>@ViewBag.Title - Garden Store</title>
+     <link rel="stylesheet" href="~/Content/Home.css" />
+</head>
+
+<div class="container mt-4">
+     <h1 class="text-center mb-4">Welcome to the Veralyn!</h1>
+
+     <div class="row text-center">
+          <div class="col-md-4">
+               <div class="card shadow-sm">
+                    <img src="~/img/trees.png" class="card-img-top" alt="Trees">
+                    <div class="card-body">
+                         <h5 class="card-title">Trees</h5>
+                         <p class="card-text">Fruit and ornamental trees for your garden.</p>
+                         <a href="/Categories/Index?name=Trees" class="btn btn-success">View</a>
+                    </div>
+               </div>
+          </div>
+
+          <div class="col-md-4">
+               <div class="card shadow-sm">
+                    <img src="~/img/flowers.jpg" class="card-img-top" alt="Flowers">
+                    <div class="card-body">
+                         <h5 class="card-title">Flowers</h5>
+                         <p class="card-text">Brighten your yard with beautiful flowers.</p>
+                         <a href="/Categories/Index?name=Flowers" class="btn btn-success">View</a>
+                    </div>
+               </div>
+          </div>
+
+          <div class="col-md-4">
+               <div class="card shadow-sm">
+                    <img src="~/img/tools.jpg" class="card-img-top" alt="Tools">
+                    <div class="card-body">
+                         <h5 class="card-title">Garden Tools</h5>
+                         <p class="card-text">Everything you need to take care of your plants.</p>
+                         <a href="/Categories/Index?name=Tools" class="btn btn-success">View</a>
+                    </div>
+               </div>
+          </div>
+     </div>
+</div>
+
+<!-- 🌟 Recenzii -->
+<section id="testimonials" class="py-5 bg-light">
+     <div class="container">
+          <h2 class="text-center">Ce spun clienții noștri</h2>
+          <div class="row g-4 justify-content-center">
+
+               <div class="col-md-6 col-lg-4">
+                    <div class="card border-0 shadow-sm h-100">
+                         <div class="card-body text-center bg-cream">
+                              <p class="card-text">Plante super! Personal de nota 10. Prețurile sunt accesibile. <strong>Mulțumim mult!</strong></p>
+                              <div class="text-warning mb-2">★★★★★</div>
+                              <h6 class="text-muted">Ana Zloghin</h6>
+                         </div>
+                    </div>
+               </div>
+
+               <div class="col-md-6 col-lg-4">
+                    <div class="card border-0 shadow-sm h-100">
+                         <div class="card-body text-center bg-cream">
+                              <p class="card-text">Săptămâna trecută am cumpărat un brad, suntem mulțumiți, brăduțul arată minunat.</p>
+                              <p class="card-text small text-muted">P.S. L-am plantat în grădină și a dat crenguțe noi.</p>
+                              <div class="text-warning mb-2">★★★★★</div>
+                              <h6 class="text-muted">Ana P</h6>
+                         </div>
+                    </div>
+               </div>
+
+               <div class="col-md-6 col-lg-4">
+                    <div class="card border-0 shadow-sm h-100">
+                         <div class="card-body text-center bg-cream">
+                              <p class="card-text">Sortiment foarte bogat, prețuri bune și personal foarte amabil. Vom reveni cu siguranță!</p>
+                              <div class="text-warning mb-2">★★★★★</div>
+                              <h6 class="text-muted">Rodica Cușnir</h6>
+                         </div>
+                    </div>
+               </div>
+
+          </div>
+     </div>
+</section>

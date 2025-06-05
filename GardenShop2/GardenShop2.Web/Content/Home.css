@@ -1,0 +1,109 @@
+﻿.hero-title {
+     font-size: 2.5rem;
+     font-weight: 700;
+     color: #2e7d32;
+     margin-bottom: 30px;
+}
+
+.category-card {
+     transition: transform 0.3s ease, box-shadow 0.3s ease;
+     border-radius: 10px;
+}
+
+     .category-card:hover {
+          transform: scale(1.03);
+          box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+     }
+
+     .category-card img {
+          height: 200px;
+          object-fit: cover;
+          border-top-left-radius: 10px;
+          border-top-right-radius: 10px;
+     }
+
+     .category-card .card-body {
+          background-color: #ffffff;
+          padding: 20px;
+     }
+
+     .category-card .card-title {
+          color: #388e3c;
+          font-size: 1.3rem;
+          margin-bottom: 10px;
+     }
+
+     .category-card .btn {
+          border-radius: 20px;
+          padding: 8px 20px;
+          font-weight: 500;
+     }
+
+.browse-all-btn {
+     margin-top: 40px;
+}
+
+/* ✨ Recenzii */
+#testimonials {
+     background-color: #f9f9f9;
+     padding: 60px 0;
+}
+
+     #testimonials h2 {
+          font-weight: 600;
+          color: #2e7d32;
+          margin-bottom: 40px;
+     }
+
+.bg-cream {
+     background-color: #f6f5f0;
+     border-radius: 12px;
+     padding: 20px;
+}
+
+.card-text {
+     font-size: 1rem;
+     color: #555;
+}
+
+#testimonials .card {
+     transition: transform 0.3s ease;
+}
+
+     #testimonials .card:hover {
+          transform: translateY(-5px);
+          box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+     }
+
+/* 🌿 Despre noi */
+#about-us {
+     background-color: #ffffff;
+     border-top: 1px solid #e0e0e0;
+     padding: 60px 0;
+}
+
+     #about-us h2 {
+          font-weight: 700;
+          color: #2e7d32;
+          margin-bottom: 20px;
+     }
+
+     #about-us p {
+          font-size: 1rem;
+          color: #555;
+     }
+
+     #about-us img {
+          width: 50px;
+          height: auto;
+          
+     }
+
+     #about-us .text-muted {
+          color: #777 !important;
+     }
+
+     #about-us .bi {
+          margin-right: 8px;
+          color: #2e7d32;
+     }

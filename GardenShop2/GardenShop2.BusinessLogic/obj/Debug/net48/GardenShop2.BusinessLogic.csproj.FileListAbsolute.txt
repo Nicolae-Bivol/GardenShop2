@@ -19,3 +19,4 @@ C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.BusinessLogic\obj\Debu
 C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.BusinessLogic\obj\Debug\net48\GardenSh.C89FA0F0.Up2Date
 C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.BusinessLogic\obj\Debug\net48\GardenShop2.BusinessLogic.dll
 C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.BusinessLogic\obj\Debug\net48\GardenShop2.BusinessLogic.pdb
+C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.BusinessLogic\obj\Debug\net48\GardenShop2.BusinessLogic.sourcelink.json

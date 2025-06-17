@@ -17,3 +17,4 @@ C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Domain\obj\Debug\net48
 C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Domain\obj\Debug\net48\GardenSh.A988EA77.Up2Date
 C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Domain\obj\Debug\net48\GardenShop2.Domain.dll
 C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Domain\obj\Debug\net48\GardenShop2.Domain.pdb
+C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Domain\obj\Debug\net48\GardenShop2.Domain.sourcelink.json

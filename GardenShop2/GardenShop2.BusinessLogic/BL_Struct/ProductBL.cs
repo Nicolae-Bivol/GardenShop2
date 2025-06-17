@@ -20,5 +20,10 @@ namespace GardenShop2.BusinessLogic.BL_Struct
                    .Where(p => p.Category == categoryName)
                    .ToList();
           }
+
+          public Product GetById(int id)
+          {
+               return _context.Products.FirstOrDefault(p => p.Id == id);
+          }
      }
 }

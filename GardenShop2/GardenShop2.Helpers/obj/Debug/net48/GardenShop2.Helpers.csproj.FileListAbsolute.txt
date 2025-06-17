@@ -13,3 +13,4 @@ C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Helpers\obj\Debug\net4
 C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Helpers\obj\Debug\net48\GardenSh.D8F2A2F1.Up2Date
 C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Helpers\obj\Debug\net48\GardenShop2.Helpers.dll
 C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Helpers\obj\Debug\net48\GardenShop2.Helpers.pdb
+C:\Users\User\Desktop\GardenShop2\GardenShop2\GardenShop2.Helpers\obj\Debug\net48\GardenShop2.Helpers.sourcelink.json

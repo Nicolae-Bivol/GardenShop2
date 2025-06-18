@@ -28,7 +28,7 @@ namespace GardenShop.Controllers
                if (_userService.Login(username, password))
                {
                     Session["Username"] = username;
-                    return RedirectToAction("Home", "Home");
+                    return RedirectToAction("Index", "Home");
                }
 
                ViewBag.Error = "Invalid username or password.";

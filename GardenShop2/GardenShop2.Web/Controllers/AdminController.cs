@@ -92,5 +92,29 @@ namespace GardenShop.Controllers
 
                return View(result);
           }
+          public ActionResult Users()
+          {
+               if (Session["Role"]?.ToString() != "2")
+                    return RedirectToAction("AccessDenied", "Account");
+
+               var users = _context.Users.ToList();
+               return View(users);
+          }
+
+          public ActionResult DeleteUser(int id)
+          {
+               if (Session["Role"]?.ToString() != "2")
+                    return RedirectToAction("AccessDenied", "Account");
+
+               var user = _context.Users.Find(id);
+               if (user != null)
+               {
+                    _context.Users.Remove(user);
+                    _context.SaveChanges();
+               }
+
+               return RedirectToAction("Users");
+          }
+
      }
 }

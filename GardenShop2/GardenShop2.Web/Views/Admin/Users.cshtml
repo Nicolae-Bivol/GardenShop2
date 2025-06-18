@@ -1,0 +1,36 @@
+﻿@model List<GardenShop2.Domain.Model.User>
+
+@{
+     ViewBag.Title = "Administrare Utilizatori";
+}
+
+<h2>Utilizatori</h2>
+
+<table class="table table-bordered">
+     <thead>
+          <tr>
+               <th>ID</th>
+               <th>Username</th>
+               <th>Rol</th>
+               <th>Acțiuni</th>
+          </tr>
+     </thead>
+     <tbody>
+          @foreach (var user in Model)
+          {
+               <tr>
+                    <td>@user.Id</td>
+                    <td>@user.Username</td>
+                    <td>
+                         @(user.Role == 2 ? "Admin" : "User")
+                    </td>
+                    <td>
+                         <a class="btn btn-danger btn-sm" href="@Url.Action("DeleteUser", "Admin", new { id = user.Id })"
+                            onclick="return confirm('Ești sigur că vrei să ștergi acest utilizator?');">
+                              Șterge
+                         </a>
+                    </td>
+               </tr>
+          }
+     </tbody>
+</table>

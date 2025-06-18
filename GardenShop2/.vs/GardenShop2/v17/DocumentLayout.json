@@ -3,7 +3,51 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\gardenshop2.web\\views\\orders\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|c:\\users\\user\\desktop\\gardenshop2\\gardenshop2\\gardenshop2.web\\views\\comments\\mycomments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|solutionrelative:gardenshop2.web\\views\\comments\\mycomments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\gardenshop2.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|solutionrelative:gardenshop2.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\gardenshop2.web\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|solutionrelative:gardenshop2.web\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|c:\\users\\user\\desktop\\gardenshop2\\gardenshop2\\gardenshop2.web\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|solutionrelative:gardenshop2.web\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\gardenshop2.web\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|solutionrelative:gardenshop2.web\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\gardenshop2.web\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|solutionrelative:gardenshop2.web\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\gardenshop2.web\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|solutionrelative:gardenshop2.web\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63391DFC-CAC0-46E4-8ED8-9575F2E80FC2}|GardenShop2.Domain\\GardenShop2.Domain.csproj|c:\\users\\user\\desktop\\gardenshop2\\gardenshop2\\gardenshop2.domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63391DFC-CAC0-46E4-8ED8-9575F2E80FC2}|GardenShop2.Domain\\GardenShop2.Domain.csproj|solutionrelative:gardenshop2.domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63391DFC-CAC0-46E4-8ED8-9575F2E80FC2}|GardenShop2.Domain\\GardenShop2.Domain.csproj|c:\\users\\user\\desktop\\gardenshop2\\gardenshop2\\gardenshop2.domain\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63391DFC-CAC0-46E4-8ED8-9575F2E80FC2}|GardenShop2.Domain\\GardenShop2.Domain.csproj|solutionrelative:gardenshop2.domain\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63391DFC-CAC0-46E4-8ED8-9575F2E80FC2}|GardenShop2.Domain\\GardenShop2.Domain.csproj|c:\\users\\user\\desktop\\gardenshop2\\gardenshop2\\gardenshop2.domain\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63391DFC-CAC0-46E4-8ED8-9575F2E80FC2}|GardenShop2.Domain\\GardenShop2.Domain.csproj|solutionrelative:gardenshop2.domain\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63391DFC-CAC0-46E4-8ED8-9575F2E80FC2}|GardenShop2.Domain\\GardenShop2.Domain.csproj|c:\\users\\user\\desktop\\gardenshop2\\gardenshop2\\gardenshop2.domain\\model\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63391DFC-CAC0-46E4-8ED8-9575F2E80FC2}|GardenShop2.Domain\\GardenShop2.Domain.csproj|solutionrelative:gardenshop2.domain\\model\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|c:\\users\\user\\desktop\\gardenshop2\\gardenshop2\\gardenshop2.web\\views\\orders\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|solutionrelative:gardenshop2.web\\views\\orders\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -11,19 +55,15 @@
       "RelativeMoniker": "D:0:0:{63391DFC-CAC0-46E4-8ED8-9575F2E80FC2}|GardenShop2.Domain\\GardenShop2.Domain.csproj|solutionrelative:gardenshop2.domain\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|c:\\users\\user\\desktop\\gardenshop2\\gardenshop2\\gardenshop2.web\\views\\orders\\deliverydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\gardenshop2.web\\views\\orders\\deliverydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|solutionrelative:gardenshop2.web\\views\\orders\\deliverydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\gardenshop2.web\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|solutionrelative:gardenshop2.web\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63391DFC-CAC0-46E4-8ED8-9575F2E80FC2}|GardenShop2.Domain\\GardenShop2.Domain.csproj|c:\\users\\user\\desktop\\gardenshop2\\gardenshop2\\gardenshop2.domain\\model\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63391DFC-CAC0-46E4-8ED8-9575F2E80FC2}|GardenShop2.Domain\\GardenShop2.Domain.csproj|solutionrelative:gardenshop2.domain\\model\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|c:\\users\\user\\desktop\\gardenshop2\\gardenshop2\\gardenshop2.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\gardenshop2.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|solutionrelative:gardenshop2.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -35,16 +75,8 @@
       "RelativeMoniker": "D:0:0:{63391DFC-CAC0-46E4-8ED8-9575F2E80FC2}|GardenShop2.Domain\\GardenShop2.Domain.csproj|solutionrelative:gardenshop2.domain\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63391DFC-CAC0-46E4-8ED8-9575F2E80FC2}|GardenShop2.Domain\\GardenShop2.Domain.csproj|c:\\users\\user\\desktop\\gardenshop2\\gardenshop2\\gardenshop2.domain\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63391DFC-CAC0-46E4-8ED8-9575F2E80FC2}|GardenShop2.Domain\\GardenShop2.Domain.csproj|solutionrelative:gardenshop2.domain\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E0F64343-F75A-4F30-B26B-BF2E5DEC9BC8}|GardenShop2.BusinessLogic\\GardenShop2.BusinessLogic.csproj|c:\\users\\user\\desktop\\gardenshop2\\gardenshop2\\gardenshop2.businesslogic\\gardenshop2.businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E0F64343-F75A-4F30-B26B-BF2E5DEC9BC8}|GardenShop2.BusinessLogic\\GardenShop2.BusinessLogic.csproj|solutionrelative:gardenshop2.businesslogic\\gardenshop2.businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\gardenshop2.web\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|solutionrelative:gardenshop2.web\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0F64343-F75A-4F30-B26B-BF2E5DEC9BC8}|GardenShop2.BusinessLogic\\GardenShop2.BusinessLogic.csproj|c:\\users\\user\\desktop\\gardenshop2\\gardenshop2\\gardenshop2.businesslogic\\bl_struct\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,32 +91,12 @@
       "RelativeMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|solutionrelative:gardenshop2.web\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\gardenshop2.web\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|solutionrelative:gardenshop2.web\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\gardenshop2.web\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|solutionrelative:gardenshop2.web\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63391DFC-CAC0-46E4-8ED8-9575F2E80FC2}|GardenShop2.Domain\\GardenShop2.Domain.csproj|c:\\users\\user\\desktop\\gardenshop2\\gardenshop2\\gardenshop2.domain\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63391DFC-CAC0-46E4-8ED8-9575F2E80FC2}|GardenShop2.Domain\\GardenShop2.Domain.csproj|solutionrelative:gardenshop2.domain\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63391DFC-CAC0-46E4-8ED8-9575F2E80FC2}|GardenShop2.Domain\\GardenShop2.Domain.csproj|c:\\users\\user\\desktop\\gardenshop2\\gardenshop2\\gardenshop2.domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63391DFC-CAC0-46E4-8ED8-9575F2E80FC2}|GardenShop2.Domain\\GardenShop2.Domain.csproj|solutionrelative:gardenshop2.domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{63391DFC-CAC0-46E4-8ED8-9575F2E80FC2}|GardenShop2.Domain\\GardenShop2.Domain.csproj|c:\\users\\user\\desktop\\gardenshop2\\gardenshop2\\gardenshop2.domain\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63391DFC-CAC0-46E4-8ED8-9575F2E80FC2}|GardenShop2.Domain\\GardenShop2.Domain.csproj|solutionrelative:gardenshop2.domain\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\gardenshop2.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|solutionrelative:gardenshop2.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\gardenshop2.web\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A7C6D40-E71E-4D4A-BDB3-7D2F57070F7E}|GardenShop2.Web\\GardenShop2.Web.csproj|solutionrelative:gardenshop2.web\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0F64343-F75A-4F30-B26B-BF2E5DEC9BC8}|GardenShop2.BusinessLogic\\GardenShop2.BusinessLogic.csproj|c:\\users\\user\\desktop\\gardenshop2\\gardenshop2\\gardenshop2.businesslogic\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -273,7 +285,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -281,46 +293,150 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DeliveryDetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Orders\\DeliveryDetails.cshtml",
-              "RelativeDocumentMoniker": "GardenShop2.Web\\Views\\Orders\\DeliveryDetails.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Orders\\DeliveryDetails.cshtml",
-              "RelativeToolTip": "GardenShop2.Web\\Views\\Orders\\DeliveryDetails.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwCIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MyComments.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Comments\\MyComments.cshtml",
+              "RelativeDocumentMoniker": "GardenShop2.Web\\Views\\Comments\\MyComments.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Comments\\MyComments.cshtml",
+              "RelativeToolTip": "GardenShop2.Web\\Views\\Comments\\MyComments.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-18T13:06:22.059Z",
+              "WhenOpened": "2025-06-18T13:33:29.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CheckoutViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Model\\CheckoutViewModel.cs",
-              "RelativeDocumentMoniker": "GardenShop2.Domain\\Model\\CheckoutViewModel.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Model\\CheckoutViewModel.cs",
-              "RelativeToolTip": "GardenShop2.Domain\\Model\\CheckoutViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "GardenShop2.Web\\Views\\Profile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Profile\\Index.cshtml",
+              "RelativeToolTip": "GardenShop2.Web\\Views\\Profile\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T09:15:28.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "GardenShop2.Web\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "GardenShop2.Web\\Controllers\\CommentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:02:42.073Z",
+              "WhenOpened": "2025-06-18T13:24:29.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "GardenShop2.Web\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "GardenShop2.Web\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:03:36.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "GardenShop2.Web\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "GardenShop2.Web\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:29:34.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "GardenShop2.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "GardenShop2.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAjwHwAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-03T16:31:38.148Z",
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "GardenShop2.Web\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "GardenShop2.Web\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:13:55.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "GardenShop2.Web\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "GardenShop2.Web\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T09:30:31.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Model\\User.cs",
+              "RelativeDocumentMoniker": "GardenShop2.Domain\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Model\\User.cs",
+              "RelativeToolTip": "GardenShop2.Domain\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:15:54.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "GardenShop2.Domain\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Model\\Product.cs",
+              "RelativeToolTip": "GardenShop2.Domain\\Model\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:15:53.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GardenShop2.Domain\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GardenShop2.Domain\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:29:17.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Model\\Comment.cs",
+              "RelativeDocumentMoniker": "GardenShop2.Domain\\Model\\Comment.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Model\\Comment.cs",
+              "RelativeToolTip": "GardenShop2.Domain\\Model\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:22:00.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "MyOrders.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Orders\\MyOrders.cshtml",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Views\\Orders\\MyOrders.cshtml",
@@ -333,20 +449,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "GardenShop2.Web\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "GardenShop2.Web\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAuwGUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T11:03:36.99Z",
-              "EditorCaption": ""
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GardenShop2.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GardenShop2.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAjwHwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T16:31:38.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
+              "Title": "CheckoutViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Model\\CheckoutViewModel.cs",
+              "RelativeDocumentMoniker": "GardenShop2.Domain\\Model\\CheckoutViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Model\\CheckoutViewModel.cs",
+              "RelativeToolTip": "GardenShop2.Domain\\Model\\CheckoutViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:02:42.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeliveryDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Orders\\DeliveryDetails.cshtml",
+              "RelativeDocumentMoniker": "GardenShop2.Web\\Views\\Orders\\DeliveryDetails.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Orders\\DeliveryDetails.cshtml",
+              "RelativeToolTip": "GardenShop2.Web\\Views\\Orders\\DeliveryDetails.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T13:06:22.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Model\\Order.cs",
               "RelativeDocumentMoniker": "GardenShop2.Domain\\Model\\Order.cs",
@@ -354,24 +493,11 @@
               "RelativeToolTip": "GardenShop2.Domain\\Model\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAgwA8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T11:00:46.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T11:00:46.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "GardenShop2.Domain\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "GardenShop2.Domain\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T09:29:17.755Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Model\\OrderItem.cs",
               "RelativeDocumentMoniker": "GardenShop2.Domain\\Model\\OrderItem.cs",
@@ -383,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.BusinessLogic\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "GardenShop2.BusinessLogic\\Services\\OrderService.cs",
@@ -395,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "GardenShop2.BusinessLogic.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.BusinessLogic\\GardenShop2.BusinessLogic.csproj",
               "RelativeDocumentMoniker": "GardenShop2.BusinessLogic\\GardenShop2.BusinessLogic.csproj",
@@ -407,19 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Profile\\Index.cshtml",
-              "RelativeDocumentMoniker": "GardenShop2.Web\\Views\\Profile\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Profile\\Index.cshtml",
-              "RelativeToolTip": "GardenShop2.Web\\Views\\Profile\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-18T09:15:28.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "FavoritesController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Controllers\\FavoritesController.cs",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Controllers\\FavoritesController.cs",
@@ -431,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Categories\\Index.cshtml",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Views\\Categories\\Index.cshtml",
@@ -443,19 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProfileController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Controllers\\ProfileController.cs",
-              "RelativeDocumentMoniker": "GardenShop2.Web\\Controllers\\ProfileController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Controllers\\ProfileController.cs",
-              "RelativeToolTip": "GardenShop2.Web\\Controllers\\ProfileController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T09:13:55.344Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Favorites\\Index.cshtml",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Views\\Favorites\\Index.cshtml",
@@ -467,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "ProductBL.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.BusinessLogic\\BL_Struct\\ProductBL.cs",
               "RelativeDocumentMoniker": "GardenShop2.BusinessLogic\\BL_Struct\\ProductBL.cs",
@@ -479,43 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Model\\Product.cs",
-              "RelativeDocumentMoniker": "GardenShop2.Domain\\Model\\Product.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Model\\Product.cs",
-              "RelativeToolTip": "GardenShop2.Domain\\Model\\Product.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T16:15:53.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Model\\User.cs",
-              "RelativeDocumentMoniker": "GardenShop2.Domain\\Model\\User.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Model\\User.cs",
-              "RelativeToolTip": "GardenShop2.Domain\\Model\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T16:15:54.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Product\\Details.cshtml",
-              "RelativeDocumentMoniker": "GardenShop2.Web\\Views\\Product\\Details.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Product\\Details.cshtml",
-              "RelativeToolTip": "GardenShop2.Web\\Views\\Product\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-18T09:30:31.912Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.BusinessLogic\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "GardenShop2.BusinessLogic\\Services\\ProductService.cs",
@@ -527,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Data\\DbInitializer.cs",
               "RelativeDocumentMoniker": "GardenShop2.Domain\\Data\\DbInitializer.cs",
@@ -539,19 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "GardenShop2.Web\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "GardenShop2.Web\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T09:29:34.512Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "AutentificationControler.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Controllers\\AutentificationControler.cs",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Controllers\\AutentificationControler.cs",
@@ -563,7 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Controllers\\CartController.cs",
@@ -575,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "CartBL.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.BusinessLogic\\BL_Struct\\CartBL.cs",
               "RelativeDocumentMoniker": "GardenShop2.BusinessLogic\\BL_Struct\\CartBL.cs",
@@ -587,7 +641,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Controllers\\HomeController.cs",
@@ -599,7 +653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "UserBL.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.BusinessLogic\\BL_Struct\\UserBL.cs",
               "RelativeDocumentMoniker": "GardenShop2.BusinessLogic\\BL_Struct\\UserBL.cs",
@@ -611,7 +665,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Controllers\\AccountController.cs",
@@ -623,7 +677,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "AuthBL.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.BusinessLogic\\BL_Struct\\AuthBL.cs",
               "RelativeDocumentMoniker": "GardenShop2.BusinessLogic\\BL_Struct\\AuthBL.cs",
@@ -635,7 +689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "CartItem.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Model\\CartItem.cs",
               "RelativeDocumentMoniker": "GardenShop2.Domain\\Model\\CartItem.cs",
@@ -647,7 +701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "CategoriesControler.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Controllers\\CategoriesControler.cs",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Controllers\\CategoriesControler.cs",
@@ -659,7 +713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Cart\\Index.cshtml",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Views\\Cart\\Index.cshtml",
@@ -670,7 +724,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "GardenShop2.Web\\App_Start\\RouteConfig.cs",
@@ -682,7 +736,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "UserApi.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.BusinessLogic\\Core\\UserApi.cs",
               "RelativeDocumentMoniker": "GardenShop2.BusinessLogic\\Core\\UserApi.cs",
@@ -694,7 +748,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.BusinessLogic\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "GardenShop2.BusinessLogic\\Interfaces\\IUserService.cs",
@@ -706,7 +760,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.BusinessLogic\\Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "GardenShop2.BusinessLogic\\Interfaces\\IProductService.cs",
@@ -718,7 +772,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Web.config",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Web.config",
@@ -731,7 +785,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "202505291618120_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Migrations\\202505291618120_InitialCreate.cs",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Migrations\\202505291618120_InitialCreate.cs",
@@ -743,7 +797,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.BusinessLogic\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "GardenShop2.BusinessLogic\\Services\\UserService.cs",
@@ -755,7 +809,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Global.asax.cs",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Global.asax.cs",
@@ -767,7 +821,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Autentification\\Login.cshtml",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Views\\Autentification\\Login.cshtml",
@@ -779,7 +833,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "Home.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Home\\Home.cshtml",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Views\\Home\\Home.cshtml",
@@ -791,7 +845,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "GardenShop2.Web",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\GardenShop2.Web.csproj",
               "RelativeDocumentMoniker": "GardenShop2.Web\\GardenShop2.Web.csproj",
@@ -802,7 +856,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\packages.config",
               "RelativeDocumentMoniker": "GardenShop2.Web\\packages.config",
@@ -814,7 +868,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "PasswordHelper.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Helpers\\PasswordHelper\\PasswordHelper.cs",
               "RelativeDocumentMoniker": "GardenShop2.Helpers\\PasswordHelper\\PasswordHelper.cs",
@@ -826,7 +880,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "GardenShop2.Helpers.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Helpers\\GardenShop2.Helpers.csproj",
               "RelativeDocumentMoniker": "GardenShop2.Helpers\\GardenShop2.Helpers.csproj",
@@ -838,7 +892,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "Site.css",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Content\\Site.css",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Content\\Site.css",
@@ -850,7 +904,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\Autentification\\Register.cshtml",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Views\\Autentification\\Register.cshtml",
@@ -862,7 +916,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "GardenShop2.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\GardenShop2.Domain.csproj",
               "RelativeDocumentMoniker": "GardenShop2.Domain\\GardenShop2.Domain.csproj",
@@ -874,7 +928,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Migrations\\Configuration.cs",
@@ -886,7 +940,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.BusinessLogic\\Class1.cs",
               "RelativeDocumentMoniker": "GardenShop2.BusinessLogic\\Class1.cs",
@@ -898,7 +952,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "Home.css",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Content\\Home.css",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Content\\Home.css",
@@ -910,7 +964,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "GardenShop2.Domain\\Class1.cs",
@@ -922,7 +976,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "Web.Debug.config",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Web.Debug.config",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Web.Debug.config",
@@ -934,7 +988,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 57,
               "Title": "Web.Release.config",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Web.Release.config",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Web.Release.config",
@@ -946,7 +1000,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "serviceDependencies.json",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Properties\\serviceDependencies.json",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Properties\\serviceDependencies.json",
@@ -958,7 +1012,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "serviceDependencies.local.json",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Properties\\serviceDependencies.local.json",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Properties\\serviceDependencies.local.json",
@@ -970,7 +1024,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 60,
               "Title": "serviceDependencies.local.json.user",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Properties\\serviceDependencies.local.json.user",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Properties\\serviceDependencies.local.json.user",
@@ -982,7 +1036,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 61,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Properties\\AssemblyInfo.cs",
@@ -994,7 +1048,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 62,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Views\\_ViewStart.cshtml",
@@ -1006,7 +1060,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 63,
               "Title": "fontawesome-webfont.svg",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Fonts\\fontawesome-webfont.svg",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Fonts\\fontawesome-webfont.svg",
@@ -1018,7 +1072,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 64,
               "Title": "Consultanta-gratuita.jpg",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Img\\Consultanta-gratuita.jpg",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Img\\Consultanta-gratuita.jpg",
@@ -1029,7 +1083,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 65,
               "Title": "Cherry Blossom.png",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Img\\Cherry Blossom.png",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Img\\Cherry Blossom.png",
@@ -1040,7 +1094,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 66,
               "Title": "Calitate-superioara.jpg",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Img\\Calitate-superioara.jpg",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Img\\Calitate-superioara.jpg",
@@ -1051,7 +1105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 67,
               "Title": "AppleTree.png",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Web\\Img\\AppleTree.png",
               "RelativeDocumentMoniker": "GardenShop2.Web\\Img\\AppleTree.png",
@@ -1062,7 +1116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 68,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GardenShop2\\GardenShop2\\GardenShop2.Helpers\\Class1.cs",
               "RelativeDocumentMoniker": "GardenShop2.Helpers\\Class1.cs",

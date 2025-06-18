@@ -21,6 +21,7 @@ namespace GardenShop2.Domain.Model
           public string PlantingInstructions { get; set; }
           public string CareInstructions { get; set; }
           public virtual ICollection<User> FavoritedByUsers { get; set; }
+          public virtual ICollection<Comment> Comments { get; set; }
 
      }
 }

@@ -1,0 +1,23 @@
+﻿@model List<GardenShop2.Domain.Model.Comment>
+@{
+     ViewBag.Title = "Comentariile Mele";
+}
+
+<h2 class="text-success mb-4">Comentariile tale</h2>
+
+@if (!Model.Any())
+{
+     <p class="text-muted">Nu ai scris încă niciun comentariu.</p>
+}
+else
+{
+     foreach (var comment in Model)
+     {
+          <div class="card mb-3">
+               <div class="card-body">
+                    <p class="mb-1">@comment.Content</p>
+                    <small class="text-muted">La produsul ID: @comment.ProductId • @comment.CreatedAt.ToString("dd MMM yyyy HH:mm")</small>
+               </div>
+          </div>
+     }
+}

@@ -28,5 +28,8 @@ namespace GardenShop2.Domain.Data
 
                base.OnModelCreating(modelBuilder);
           }
+          public DbSet<Comment> Comments { get; set; }
+
      }
+
 }

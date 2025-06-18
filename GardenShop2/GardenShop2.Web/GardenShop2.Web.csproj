@@ -214,6 +214,7 @@
     <Compile Include="Controllers\AutentificationControler.cs" />
     <Compile Include="Controllers\CartController.cs" />
     <Compile Include="Controllers\CategoriesControler.cs" />
+    <Compile Include="Controllers\CommentsController.cs" />
     <Compile Include="Controllers\FavoritesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\OrdersController.cs" />
@@ -272,6 +273,7 @@
     <Content Include="Views\Favorites\Index.cshtml" />
     <Content Include="Views\Orders\MyOrders.cshtml" />
     <Content Include="Views\Orders\DeliveryDetails.cshtml" />
+    <Content Include="Views\Comments\MyComments.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

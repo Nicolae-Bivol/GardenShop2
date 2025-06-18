@@ -1,0 +1,23 @@
+﻿@model GardenShop2.Domain.Model.Product
+@{
+     ViewBag.Title = "Detalii produs";
+}
+
+<div class="text-center mt-4">
+     <img src="@Model.ImageUrl" alt="@Model.Name" style="max-width: 400px;" class="img-fluid rounded shadow" />
+     <h2 class="text-success mt-3">@Model.Name</h2>
+</div>
+
+<div class="container mt-5">
+     <h4>🌿 Descriere generală</h4>
+     <p>@Model.FullDescription</p>
+
+     <h4>🌎 Mediu preferat</h4>
+     <p>@Model.PreferredEnvironment</p>
+
+     <h4>🛠️ Îngrijire</h4>
+     <p>@Model.CareInstructions</p>
+
+     <h4>🌱 Plantare</h4>
+     <p>@Model.PlantingInstructions</p>
+</div>

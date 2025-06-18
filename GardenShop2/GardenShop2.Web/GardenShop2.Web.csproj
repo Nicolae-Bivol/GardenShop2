@@ -215,6 +215,7 @@
     <Compile Include="Controllers\CartController.cs" />
     <Compile Include="Controllers\CategoriesControler.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ProductController.cs" />
     <Compile Include="Controllers\ProfileController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -265,6 +266,7 @@
     <Content Include="Scripts\jquery-3.7.1.min.map" />
     <Content Include="Scripts\jquery-3.7.1.slim.min.map" />
     <Content Include="Views\Profile\Index.cshtml" />
+    <Content Include="Views\Product\Details.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

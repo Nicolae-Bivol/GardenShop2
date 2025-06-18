@@ -1,0 +1,46 @@
+﻿@model List<GardenShop2.Domain.Model.Order>
+
+@{
+     ViewBag.Title = "Istoric comenzi";
+}
+
+<h2 class="text-success mb-4">Istoricul comenzilor</h2>
+
+@if (!Model.Any())
+{
+     <p class="text-muted">Nu ai plasat nicio comandă încă.</p>
+}
+else
+{
+     foreach (var order in Model)
+     {
+          <div class="card mb-4 shadow-sm">
+               <div class="card-body">
+                    <h5 class="card-title">Comanda #@order.Id</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Plasată la: @order.PlacedAt.ToString("dd MMM yyyy HH:mm")</h6>
+                    <p class="fw-bold text-success">Total: $@order.TotalAmount</p>
+
+                    <!-- 🔽 Detalii de livrare -->
+                    <div class="mt-3">
+                         <p><strong>Adresa:</strong> @order.ShippingAddress</p>
+                         <p><strong>Telefon:</strong> @order.Phone</p>
+                         <p><strong>Email:</strong> @order.Email</p>
+                         <p><strong>Metodă de plată:</strong> @order.PaymentMethod</p>
+                    </div>
+
+                    <ul class="list-group mt-3">
+                         @foreach (var item in order.OrderItems)
+                         {
+                              <li class="list-group-item d-flex justify-content-between">
+                                   <div>
+                                        <strong>@item.ProductName</strong><br />
+                                        <small>x @item.Quantity</small>
+                                   </div>
+                                   <span>$@(item.UnitPrice * item.Quantity)</span>
+                              </li>
+                         }
+                    </ul>
+               </div>
+          </div>
+     }
+}

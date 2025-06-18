@@ -11,7 +11,7 @@
 
      <!-- Bootstrap 5 -->
      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" />
-     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet" />
 
      <!-- Custom CSS -->
      <link rel="stylesheet" href="~/Content/Site.css" />
@@ -42,7 +42,6 @@
                               <li class="nav-item d-flex align-items-center text-white me-2">
                                    Welcome, @Session["Username"]!
                               </li>
-                              <!-- Icon Profil -->
                               <li class="nav-item">
                                    <a class="btn btn-outline-light btn-sm ms-2" href="/Profile/Index">
                                         <i class="bi bi-person-circle"></i>
@@ -59,7 +58,6 @@
                               </li>
                          }
 
-                         <!-- 🔥 Buton Coș -->
                          <li class="nav-item">
                               <button class="btn btn-outline-light btn-sm position-relative ms-2" type="button" data-bs-toggle="offcanvas" data-bs-target="#cartSidebar" aria-controls="cartSidebar">
                                    <i class="bi bi-cart-fill"></i> Coș
@@ -117,6 +115,16 @@
                               </li>
                          }
                     </ul>
+
+                    <!-- ✅ Buton Plasează comanda (alternativ, fără Razor logic) -->
+                    <form method="post" action="/Orders/PlaceOrder" class="mt-3"
+                          style="@(Session["Username"] == null ? "display:none;" : "")">
+                         <button type="submit" class="btn btn-success w-100">
+                              <i class="bi bi-check-circle"></i> Plasează comanda
+                         </button>
+                    </form>
+
+
                }
           </div>
      </div>
@@ -134,7 +142,7 @@
 
                <div class="row text-center justify-content-center mb-5 g-4">
                     <div class="col-6 col-md-4 col-lg-2">
-                         <img src="~/img/Calitate-superioara.jpg" alt="Calitate superioara" style="width:50px;">
+                         <img src="~/img/Calitate-superioara.jpg" alt="Calitate superioară" style="width:50px;">
                          <p class="mt-2">Calitate superioară</p>
                     </div>
                     <div class="col-6 col-md-4 col-lg-2">
@@ -142,7 +150,7 @@
                          <p class="mt-2">Varietate largă</p>
                     </div>
                     <div class="col-6 col-md-4 col-lg-2">
-                         <img src="~/img/Experienta.jpg" alt="Experienta" style="width:50px;">
+                         <img src="~/img/Experienta.jpg" alt="Experiență" style="width:50px;">
                          <p class="mt-2">Experiență</p>
                     </div>
                     <div class="col-6 col-md-4 col-lg-2">
@@ -150,7 +158,7 @@
                          <p class="mt-2">Livrare în Moldova</p>
                     </div>
                     <div class="col-6 col-md-4 col-lg-2">
-                         <img src="~/img/Consultanta-gratuita.jpg" alt="Consultanta-gratuita" style="width:50px">
+                         <img src="~/img/Consultanta-gratuita.jpg" alt="Consultanță gratuită" style="width:50px;">
                          <p class="mt-2">Consultanță gratuită</p>
                     </div>
                </div>
@@ -159,6 +167,5 @@
 
      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
      @RenderSection("Scripts", required: false)
-
 </body>
 </html>

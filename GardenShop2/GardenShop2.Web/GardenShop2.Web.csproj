@@ -211,6 +211,7 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\AutentificationControler.cs" />
     <Compile Include="Controllers\CartController.cs" />
     <Compile Include="Controllers\CategoriesControler.cs" />
@@ -274,6 +275,8 @@
     <Content Include="Views\Orders\MyOrders.cshtml" />
     <Content Include="Views\Orders\DeliveryDetails.cshtml" />
     <Content Include="Views\Comments\MyComments.cshtml" />
+    <Content Include="Views\Admin\Panel.cshtml" />
+    <Content Include="Views\Account\AccessDenied.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -297,6 +300,10 @@
     <ProjectReference Include="..\GardenShop2.Domain\GardenShop2.Domain.csproj">
       <Project>{63391dfc-cac0-46e4-8ed8-9575f2e80fc2}</Project>
       <Name>GardenShop2.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GardenShop2.Helpers\GardenShop2.Helpers.csproj">
+      <Project>{1a321ffc-0020-44f4-ae58-23c424675988}</Project>
+      <Name>GardenShop2.Helpers</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

@@ -13,6 +13,6 @@ namespace GardenShop2.Domain.Model
           public string Password { get; set; }
           public virtual ICollection<Product> FavoriteProducts { get; set; }
           public virtual ICollection<Comment> Comments { get; set; }
-
+          public int Role { get; set; }
      }
 }

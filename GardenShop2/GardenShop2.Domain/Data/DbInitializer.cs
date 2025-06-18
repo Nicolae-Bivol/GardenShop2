@@ -4,7 +4,7 @@ using GardenShop2.Domain.Model;
 
 namespace GardenShop2.Domain.Data
 {
-     public class DbInitializer : DropCreateDatabaseIfModelChanges<ApplicationDbContext>
+     public class DbInitializer : CreateDatabaseIfNotExists<ApplicationDbContext>
      {
           protected override void Seed(ApplicationDbContext context)
           {

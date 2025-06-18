@@ -25,9 +25,12 @@ namespace GardenShop.Controllers
           [HttpPost]
           public ActionResult Login(string username, string password)
           {
-               if (_userService.Login(username, password))
+               var user = new GardenShop2.BusinessLogic.BL_Struct.UserBL().GetByUsername(username);
+               if (user != null && user.Password == GardenShop2.Helpers.PasswordHelper.HashPassword(password))
                {
-                    Session["Username"] = username;
+                    Session["Username"] = user.Username;
+                    Session["Role"] = user.Role.ToString(); // AICI e cheia!
+
                     return RedirectToAction("Index", "Home");
                }
 

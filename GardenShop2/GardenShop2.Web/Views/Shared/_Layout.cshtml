@@ -34,6 +34,16 @@
                          <li class="nav-item"><a class="nav-link text-white" href="/Categories/Index?name=Trees">Trees</a></li>
                          <li class="nav-item"><a class="nav-link text-white" href="/Categories/Index?name=Flowers">Flowers</a></li>
                          <li class="nav-item"><a class="nav-link text-white" href="/Categories/Index?name=Tools">Tools</a></li>
+
+                         @* Afișare Dashboard doar pentru admin *@
+                         @if (Session["Role"]?.ToString() == "2")
+                         {
+                              <li class="nav-item">
+                                   <a class="nav-link text-warning fw-semibold" href="/Admin/Panel">
+                                        <i class="bi bi-shield-lock"></i> Dashboard
+                                   </a>
+                              </li>
+                         }
                     </ul>
 
                     <ul class="navbar-nav">
@@ -116,15 +126,12 @@
                          }
                     </ul>
 
-                    <!-- ✅ Buton Plasează comanda (alternativ, fără Razor logic) -->
                     <form method="post" action="/Orders/PlaceOrder" class="mt-3"
                           style="@(Session["Username"] == null ? "display:none;" : "")">
                          <button type="submit" class="btn btn-success w-100">
                               <i class="bi bi-check-circle"></i> Plasează comanda
                          </button>
                     </form>
-
-
                }
           </div>
      </div>

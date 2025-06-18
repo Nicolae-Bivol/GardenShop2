@@ -21,9 +21,14 @@ namespace GardenShop2.BusinessLogic.BL_Struct
 
                string hashedPassword = PasswordHelper.HashPassword(password);
 
-               _context.Users.Add(new User { Username = username, Password = hashedPassword });
-               _context.SaveChanges();
+               _context.Users.Add(new User
+               {
+                    Username = username,
+                    Password = hashedPassword,
+                    Role = 1 // utilizator normal implicit
+               });
 
+               _context.SaveChanges();
                return true;
           }
 

@@ -1,0 +1,39 @@
+﻿@model List<GardenShop2.Domain.Model.OrderDisplayViewModel>
+
+@{
+     ViewBag.Title = "Comenzi";
+}
+
+<h2 class="text-success">Vizualizare Comenzi</h2>
+
+@foreach (var order in Model)
+{
+     <div class="card mb-4">
+          <div class="card-header bg-light">
+               <strong>Comandă #@order.OrderId</strong> – Utilizator: <strong>@order.Username</strong>
+          </div>
+          <div class="card-body">
+               <table class="table">
+                    <thead>
+                         <tr>
+                              <th>Produs</th>
+                              <th>Cantitate</th>
+                              <th>Preț unitar</th>
+                              <th>Total</th>
+                         </tr>
+                    </thead>
+                    <tbody>
+                         @foreach (var item in order.Items)
+                         {
+                              <tr>
+                                   <td>@item.ProductName</td>
+                                   <td>@item.Quantity</td>
+                                   <td>$@item.PricePerUnit</td>
+                                   <td>$@(item.PricePerUnit * item.Quantity)</td>
+                              </tr>
+                         }
+                    </tbody>
+               </table>
+          </div>
+     </div>
+}

@@ -1,0 +1,32 @@
+﻿@model GardenShop2.Domain.Model.Product
+@{
+     ViewBag.Title = "Adaugă Produs";
+}
+
+<h2 class="text-success">Adaugă Produs</h2>
+
+@using (Html.BeginForm())
+{
+     <div class="mb-3">
+          <label>Nume</label>
+          @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+     </div>
+     <div class="mb-3">
+          <label>Categorie</label>
+          @Html.TextBoxFor(m => m.Category, new { @class = "form-control" })
+     </div>
+     <div class="mb-3">
+          <label>Descriere</label>
+          @Html.TextAreaFor(m => m.Description, new { @class = "form-control" })
+     </div>
+     <div class="mb-3">
+          <label>Preț</label>
+          @Html.TextBoxFor(m => m.Price, new { @class = "form-control", type = "number", step = "0.01" })
+     </div>
+     <div class="mb-3">
+          <label>Imagine (URL)</label>
+          @Html.TextBoxFor(m => m.ImageUrl, new { @class = "form-control" })
+     </div>
+
+     <button type="submit" class="btn btn-success">Salvează</button>
+}

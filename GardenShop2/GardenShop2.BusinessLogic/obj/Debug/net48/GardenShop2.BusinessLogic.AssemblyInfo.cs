@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GardenShop2.BusinessLogic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76288d124c576f314739b926ae2e0e7514f27ae5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4469c675e30ef1835863a8a6b133f130255ea18")]
 [assembly: System.Reflection.AssemblyProductAttribute("GardenShop2.BusinessLogic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GardenShop2.BusinessLogic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

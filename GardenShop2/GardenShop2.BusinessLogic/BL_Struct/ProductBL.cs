@@ -25,5 +25,9 @@ namespace GardenShop2.BusinessLogic.BL_Struct
           {
                return _context.Products.FirstOrDefault(p => p.Id == id);
           }
+          public List<Product> GetAll()
+          {
+               return _context.Products.ToList();
+          }
      }
 }

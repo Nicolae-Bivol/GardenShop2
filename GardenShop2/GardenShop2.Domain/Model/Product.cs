@@ -20,6 +20,7 @@ namespace GardenShop2.Domain.Model
           public string PreferredEnvironment { get; set; }
           public string PlantingInstructions { get; set; }
           public string CareInstructions { get; set; }
+          public virtual ICollection<User> FavoritedByUsers { get; set; }
 
      }
 }
